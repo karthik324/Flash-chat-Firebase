@@ -1,6 +1,7 @@
 # flash_chat
 
 A simple chat app with firebase
+Not completed!
 
 ## Getting Started
 
